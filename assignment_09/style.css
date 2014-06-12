@@ -44,7 +44,6 @@ ul li {font-weight: normal;}
 .list-one a:visited {color: #00dd00;}
 
 .list-two h1 {color: #880000;}
-.list-two ul li {color: #dd0000;}
 .list-two a {color: #ff0000;}
 .list-two a:visited {color: #dd0000;}
 .list-two li {color: #aa0000;
@@ -66,13 +65,8 @@ ul li {font-weight: normal;}
 
 .images {
   width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20px;
-  padding-top: 0px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
+  margin: 20px auto 0;
+  padding: 0 50px 50px 50px
 }
 
 .images h1 {font-size: 30px; text-align: center;}
